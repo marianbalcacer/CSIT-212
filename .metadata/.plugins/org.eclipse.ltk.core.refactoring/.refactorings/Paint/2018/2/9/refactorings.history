@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 5 elements to &apos;Paint/src&apos;&#x0A;- Original project: &apos;Paint&apos;&#x0A;- Destination element: &apos;Paint/src&apos;&#x0A;- Original elements:&#x0A;     PenTool.java&#x0A;     Circle.java&#x0A;     Paint.java&#x0A;     Panel.java&#x0A;     Square.java&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="PenTool.java" element2="Circle.java" element3="Paint.java" element4="Panel.java" element5="Square.java" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1519767463909" units="0" version="1.0"/>
+</session>
